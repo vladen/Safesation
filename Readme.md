@@ -39,6 +39,3 @@ var result = value
 * Unified conversion and validation.
 * Simplified exception handling.
 * Extended pattern matching.
-
-## Conversion
-
